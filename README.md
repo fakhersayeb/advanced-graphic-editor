@@ -38,7 +38,7 @@ Real-time editing
 Browser-based (no installation)
 📸 Screenshot
 
-![Editor Screenshot](screenshots/editor.png)
+![Editor Screenshot](screenshots/editor.PNG)
 🛠️ Technologies Used
 HTML5
 CSS3
