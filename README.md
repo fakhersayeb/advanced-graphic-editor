@@ -105,7 +105,6 @@ in your browser.
 graphic-editor/
 │
 ├── index.html
-├── style.css
 ├── script.js
 ├── screenshots/
 │   └── editor.PNG
